@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/advance-todo/static/css/main.72fc6cd0.chunk.css",
+    "main.js": "/advance-todo/static/js/main.b337693d.chunk.js",
+    "main.js.map": "/advance-todo/static/js/main.b337693d.chunk.js.map",
+    "runtime-main.js": "/advance-todo/static/js/runtime-main.f413b880.js",
+    "runtime-main.js.map": "/advance-todo/static/js/runtime-main.f413b880.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/advance-todo/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ab8d0e54.chunk.js": "/advance-todo/static/js/2.ab8d0e54.chunk.js",
+    "static/js/2.ab8d0e54.chunk.js.map": "/advance-todo/static/js/2.ab8d0e54.chunk.js.map",
+    "index.html": "/advance-todo/index.html",
+    "precache-manifest.e7bd8e3c8d12fde2f7cd489bbcf58b3b.js": "/advance-todo/precache-manifest.e7bd8e3c8d12fde2f7cd489bbcf58b3b.js",
+    "service-worker.js": "/advance-todo/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/advance-todo/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.72fc6cd0.chunk.css.map": "/advance-todo/static/css/main.72fc6cd0.chunk.css.map",
+    "static/js/2.ab8d0e54.chunk.js.LICENSE.txt": "/advance-todo/static/js/2.ab8d0e54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f413b880.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ab8d0e54.chunk.js",
+    "static/css/main.72fc6cd0.chunk.css",
+    "static/js/main.b337693d.chunk.js"
+  ]
+}
