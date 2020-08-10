@@ -1,0 +1,45 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  background: #009fff;
+  background: -webkit-linear-gradient(to right, #ec2f4b, #009fff);
+  background: linear-gradient(to right, #ec2f4b, #009fff);
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  color: aliceblue;
+}
+form {
+  position: absolute;
+  top: 150px;
+  right: 10%;
+  left: 10%;
+  border-radius: 8px;
+  border: 2px solid rgb(66, 66, 180);
+  color: #000;
+  box-shadow: 0 2px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+.items {
+  position: absolute;
+  top: 180px;
+  right: 10%;
+  left: 10%;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 0;
+}
